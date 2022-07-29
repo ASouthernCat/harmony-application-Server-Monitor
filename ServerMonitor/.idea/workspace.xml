@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ccbfe375-5152-4718-96d3-cb2369d84605" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="ServerMonitor" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HosGraphicResourceFile" />
+        <option value="XHTML File" />
+        <option value="HosLayoutResourceFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="HiLogFilter">
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="00201" />
+  </component>
+  <component name="ProjectId" id="2875xR25OY8tt5mrjL2rI9aHHAr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SAVED_PROJECT_CPP_SUPPORT" value="non-cpp" />
+    <property name="auto_debug_bundleName" value="0000001D71935BD7103AC463BE346D5C8F25B9832A508C91A2E9D927EE183DC3552DFBD0C4A42AFEB78650A1E8" />
+    <property name="auto_debug_cert_list" value="00000022A7644C233F6C86A59733A60E86BDF1621AF280CE027A49DF781C9E728794E2332F9D1FD0FC6D8241C0CDA8A87991" />
+    <property name="auto_debug_device_list" value="000000229329542681248F0D503D01612ADA826013C63765F071260A9989D60C653CD0539D649CC929589B761C376ED2EEF4" />
+    <property name="auto_debug_package_name" value="0000001D3CAB4102E0C921FA9C8F8C274E8D5E536A3DAA9CC63F7EA707A7C82518142BD0D6A20A7BC6FD272360" />
+    <property name="auto_debug_team_id" value="0000002157791A4B5F49E7A4524E7F98D9294A6AD326BB95691C5C0EDF828D3E826C35A3B26044EB46622F60E6DE637B6B" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/entry/src/main/resources/base/media" />
+    <property name="project.ide.version" value="3.0.0.803" />
+    <property name="project.structure.select" value="Project" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+    <property name="show.inlinked.gradle.project.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\DevEcoStudioProjects\ServerMonitor\entry\src\main\resources\base\media" />
+      <recent name="D:\DevEcoStudioProjects\ServerMonitor\entry\libs" />
+      <recent name="D:\DevEcoStudioProjects\ServerMonitor\entry" />
+    </key>
+    <key name="ohos.template.packageName">
+      <recent name="com.example.servermonitor" />
+    </key>
+  </component>
+  <component name="RunManager" selected="HarmonyOS App.entry">
+    <configuration name="entry" type="HosDebugTask" factoryName="HarmonyOS App" activateToolWindowBeforeRun="false">
+      <module name="entry" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto />
+      <Dual />
+      <DualJs />
+      <Java />
+      <Js />
+      <Native />
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <DEPLOY_MULTI_HAP>false</DEPLOY_MULTI_HAP>
+      <REINSTALL_APPLICATION>false</REINSTALL_APPLICATION>
+      <method v="2">
+        <option name="Ohos.Build.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Super App" type="OhosSuperAppDebugTask" factoryName="HarmonyOS Super App">
+      <method v="2">
+        <option name="Ohos.Build.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+</project>
