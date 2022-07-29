@@ -3,7 +3,7 @@ spring:
     name: test
     url: jdbc:mysql://localhost:3306/test #url
     username: root
-    password: 680079@a
+    password: 
     driver-class-name: com.mysql.cj.jdbc.Driver
 server:
   port: 8020
