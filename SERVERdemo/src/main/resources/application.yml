@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    name: test
+    url: jdbc:mysql://localhost:3306/test #url
+    username: root
+    password: 680079@a
+    driver-class-name: com.mysql.cj.jdbc.Driver
+server:
+  port: 8020
+mybatis:
+  mapper-locations: classpath:src/main/resources/mapper/*.xml
+  type-aliases-package: com.example.serverdemo.bean #
